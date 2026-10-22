@@ -1,0 +1,1785 @@
+Build: HealthShield — Family Health & Financial Resilience Platform
+
+1. PRODUCT VISION
+
+Build a polished, research-oriented, mobile-first web application called HealthShield.
+
+Tagline:
+
+“One family. Every health record. Every benefit. One financial safety net.”
+
+Alternative short tagline:
+
+“Prepare your family for the unexpected.”
+
+HealthShield is a family-level healthcare financial resilience platform.
+
+The central question is:
+
+«“If someone in this family needs healthcare tomorrow, are we financially and practically prepared?”»
+
+The platform combines four connected layers:
+
+1. Family Health Profiles
+2. Structured Health Records
+3. Healthcare Benefits & Government Scheme Navigator
+4. Health Savings / Financial Safety Wallet
+
+The platform should also contain a future-facing AI Health Organizer that converts uploaded medical documents into structured, chronological health information.
+
+The application is NOT a medical diagnosis tool.
+
+It must NOT claim to replace doctors, hospitals, government portals, insurance companies, or official healthcare systems.
+
+It should help families understand, organize and prepare.
+
+---
+
+2. CORE PRODUCT IDEA
+
+A family may contain:
+
+- Father
+- Mother
+- Husband
+- Wife
+- Children
+- Grandparents
+- Elderly dependents
+- Other dependents
+
+Each person may have different:
+
+- Age
+- Gender
+- Health conditions
+- Medical history
+- Recurring medicines
+- Previous hospitalizations
+- Diagnostic reports
+- Insurance coverage
+- Government health-benefit eligibility
+- Healthcare expenses
+
+Currently, this information is often scattered across:
+
+- Paper reports
+- WhatsApp
+- Hospital portals
+- Lab PDFs
+- Prescriptions
+- Insurance documents
+- Government health cards
+- Phone galleries
+- Different family members' phones
+
+HealthShield should bring this information into one structured family-level interface.
+
+---
+
+3. VERY IMPORTANT DIFFERENTIATION
+
+Do NOT position this product simply as:
+
+“An app to store health records.”
+
+Digital health ecosystems such as ABDM/ABHA already support digital health records and consent-based sharing.
+
+The product differentiation should be:
+
+«HealthShield connects family health information with healthcare financial preparedness.»
+
+It asks:
+
+Health side:
+
+“What healthcare needs does this family have?”
+
+Protection side:
+
+“What insurance or government healthcare benefits may protect this family?”
+
+Financial side:
+
+“How much healthcare-related financial pressure could this family absorb?”
+
+Savings side:
+
+“How much should this family realistically keep aside for healthcare?”
+
+Shock side:
+
+“What happens if a ₹25,000 / ₹50,000 / ₹1 lakh medical expense occurs tomorrow?”
+
+Action side:
+
+“What is the most practical action this family can take now?”
+
+---
+
+4. MAIN NAVIGATION
+
+Create a simple bottom navigation on mobile:
+
+- Home
+- Family
+- Health Records
+- Health Wallet
+- Benefits
+
+Desktop/tablet should use a sidebar or responsive navigation.
+
+Include a profile/settings icon.
+
+Do not overcrowd the navigation.
+
+---
+
+5. LANDING PAGE
+
+Create a professional landing page.
+
+Hero headline:
+
+«“How prepared is your family for a healthcare emergency?”»
+
+Subheadline:
+
+«“Organize your family’s health records, understand healthcare protection, build a health savings buffer, and prepare for unexpected medical expenses — all in one place.”»
+
+Primary CTA:
+
+Check Family Readiness
+
+Secondary CTA:
+
+Try Demo Family
+
+Third subtle action:
+
+See How It Works
+
+Show a clean family-health visual/dashboard rather than a generic stock medical website.
+
+The design should feel:
+
+- Trustworthy
+- Modern
+- Financially responsible
+- Healthcare-oriented
+- Research-oriented
+- Accessible
+- Not overly corporate
+- Not childish
+
+---
+
+6. FAMILY SETUP
+
+After clicking “Check Family Readiness”, allow the user to create a family.
+
+Screen title:
+
+«“Who are you preparing for?”»
+
+Allow dynamic family members.
+
+The user should be able to add:
+
+Primary user
+
+- Name
+- Age
+- Gender
+- Relationship
+
+Spouse
+
+- Name
+- Age
+- Gender
+- Relationship
+
+Children
+
+Allow any number of children.
+
+For every child collect:
+
+- Name
+- Age
+- Gender
+- Basic health situation
+- Recurring medical needs
+- Allergies (optional)
+- Existing medical conditions (optional)
+- Insurance/health protection status
+
+Parents / Elderly family members
+
+Allow any number.
+
+Collect:
+
+- Name
+- Age
+- Relationship
+- Basic health situation
+- Recurring medicines
+- Existing conditions
+- Previous hospitalization
+- Insurance/protection status
+
+IMPORTANT:
+
+Do not assume a fixed family structure.
+
+A family could have:
+
+- 1 person
+- Couple
+- Couple + 1 child
+- Couple + 3 children
+- Elderly parents
+- Joint family
+- Single-parent family
+- Other dependents
+
+The interface must dynamically adapt.
+
+---
+
+7. FAMILY HEALTH DASHBOARD
+
+After adding family members, show:
+
+“Your Family Health Overview”
+
+Display family cards.
+
+Example:
+
+Rajesh
+
+Father • 52 years
+
+- Diabetes
+- Monthly medicines
+- Last report uploaded: 12 Aug 2026
+
+Priya
+
+Mother • 48 years
+
+- No recurring condition reported
+- Insurance available
+
+Aarav
+
+Son • 12 years
+
+- Asthma
+- Recurring medication
+
+Meera
+
+Daughter • 7 years
+
+- No major condition reported
+
+Do not use real patient data.
+
+Use fictional demo data.
+
+---
+
+8. HEALTH STATUS SUMMARY
+
+For each family member show:
+
+- Age
+- Health status
+- Conditions
+- Recurring medicines
+- Recent reports
+- Last health record update
+- Protection status
+- Estimated recurring healthcare expense
+
+Use simple labels:
+
+- Stable
+- Needs Attention
+- Recurring Care
+- High Healthcare Exposure
+
+IMPORTANT:
+
+These are organizational labels, NOT medical diagnoses.
+
+Add disclaimer:
+
+«“HealthShield does not diagnose medical conditions. Health information shown here is based on information provided or uploaded by the user and should be reviewed with a qualified healthcare professional.”»
+
+---
+
+9. INDIVIDUAL HEALTH PROFILE
+
+When clicking a family member, open:
+
+“Health Profile”
+
+Sections:
+
+Personal
+
+- Name
+- Age
+- Gender
+- Relationship
+
+Health Summary
+
+- Conditions
+- Allergies
+- Recurring care
+- Medicines
+- Hospitalization history
+
+Medical Timeline
+
+Example:
+
+2026
+
+- Aug 12 — Blood test
+- Jul 22 — Doctor consultation
+- Jun 04 — Prescription uploaded
+
+2025
+
+- Dec 14 — Hospital discharge summary
+
+Reports
+
+Categorize documents:
+
+- Blood Tests
+- Imaging
+- Prescriptions
+- Hospital Reports
+- Discharge Summaries
+- Vaccination
+- Insurance
+- Other
+
+---
+
+10. AI HEALTH RECORD ORGANIZER
+
+Create a prominent feature:
+
+“Organize with AI”
+
+Allow users to upload:
+
+- PDF
+- JPG
+- PNG
+- Prescription image
+- Lab report
+- Discharge summary
+
+The prototype should simulate AI document processing.
+
+Show:
+
+«“Analyzing document…”»
+
+Then transform the document into structured information.
+
+Example:
+
+Document detected
+
+Blood Test Report
+
+Extracted information
+
+Date:
+12 August 2026
+
+Test:
+HbA1c
+
+Result:
+7.2%
+
+Reference range:
+Show only if available in the uploaded document.
+
+Category:
+Diabetes monitoring
+
+Add:
+
+“AI-generated summary — verify important information against the original report.”
+
+IMPORTANT:
+
+The AI must NOT:
+
+- Diagnose disease
+- Prescribe medicine
+- Recommend changing medication
+- Predict death
+- Claim medical certainty
+- Replace a doctor
+
+It can:
+
+- Extract dates
+- Extract test names
+- Extract values
+- Organize documents
+- Create timelines
+- Summarize what the document says
+- Identify missing information
+- Group similar reports
+
+---
+
+11. HEALTH TIMELINE
+
+Create a family-level timeline.
+
+Example:
+
+Family Health Timeline
+
+August 2026
+
+- Father: Blood report uploaded
+- Child: Prescription uploaded
+
+July 2026
+
+- Mother: Doctor consultation
+- Father: Medicine purchase
+
+June 2026
+
+- Daughter: Vaccination record uploaded
+
+Allow filtering by family member.
+
+Allow filtering by document type.
+
+---
+
+12. AI FAMILY HEALTH SUMMARY
+
+Create a card:
+
+“Family Health Snapshot”
+
+Example:
+
+«“Your family has 4 members. One member has recurring healthcare expenses and two members have recent medical records uploaded.”»
+
+Then show:
+
+- Family members
+- Recurring healthcare needs
+- Recent medical activity
+- Missing information
+- Upcoming document review
+
+Do NOT generate medical diagnoses.
+
+---
+
+13. GOVERNMENT HEALTH BENEFITS
+
+Create a major module:
+
+“Government & Health Benefits”
+
+Subheadline:
+
+«“Check what healthcare protection your family may be eligible for.”»
+
+Allow the user to enter:
+
+- State
+- Age
+- Household details
+- Relevant eligibility information
+- Existing government health card
+- Scheme details
+
+Create cards for:
+
+- Government Health Scheme
+- State Health Scheme
+- PM-JAY / applicable scheme
+- Other applicable benefits
+- Insurance
+- Employer health coverage
+
+IMPORTANT:
+
+Do not claim eligibility unless verified through an official authorized source.
+
+For the prototype, label results:
+
+“Potentially Applicable”
+
+“Needs Verification”
+
+“Verified — only when connected to an authorized source”
+
+Include:
+
+“HealthShield does not independently grant government benefits. Eligibility and coverage must be verified through official government systems or authorized providers.”
+
+---
+
+14. GOVERNMENT HEALTH CARD / BENEFIT WALLET
+
+Create:
+
+“My Health Protection”
+
+This should visually resemble a wallet.
+
+Cards can include:
+
+Government Health Benefit
+
+Status:
+Potentially Eligible
+
+Health Insurance
+
+Coverage:
+₹5,00,000
+
+Employer Coverage
+
+Status:
+Available
+
+ABHA / Digital Health Identity
+
+Status:
+Connected / Not Connected
+
+Do not imply that ABHA itself provides insurance coverage.
+
+Do not fabricate integrations.
+
+For the prototype, use:
+
+“Future authorized integration”
+
+where real API/government authorization would be required.
+
+---
+
+15. HEALTH SAVINGS WALLET
+
+This is a major feature.
+
+Create a section:
+
+Health Wallet
+
+Purpose:
+
+«“Build a dedicated financial buffer for healthcare expenses.”»
+
+Show:
+
+Current Health Savings
+
+₹18,500
+
+Monthly Target
+
+₹3,000
+
+Daily Equivalent
+
+₹100/day
+
+Suggested Safety Buffer
+
+₹50,000
+
+These numbers must be clearly labelled as:
+
+Illustrative / prototype calculation
+
+Do not claim these amounts are medically or financially guaranteed.
+
+---
+
+16. WALLET ACTIONS
+
+Buttons:
+
+Add Money
+
+Set Monthly Target
+
+Set Daily Saving
+
+Add Healthcare Expense
+
+View Transactions
+
+Emergency Reserve
+
+Savings Goal
+
+For the prototype, do NOT connect to a real bank account.
+
+Use simulated wallet transactions.
+
+Example:
+
++ ₹100 — Daily health saving
+
++ ₹500 — Monthly contribution
+
+− ₹1,200 — Pharmacy expense
+
+− ₹800 — Diagnostic expense
+
+Balance:
+₹18,500
+
+Add:
+
+«“Prototype wallet — no real money is transferred.”»
+
+---
+
+17. HEALTH EXPENSE TRACKING
+
+Allow users to record:
+
+- Doctor consultation
+- Medicine
+- Diagnostic test
+- Hospitalization
+- Surgery
+- Insurance premium
+- Other healthcare expense
+
+Fields:
+
+- Family member
+- Date
+- Amount
+- Category
+- Paid by
+- Insurance reimbursement
+- Government benefit used
+- Notes
+
+Then show:
+
+Monthly Healthcare Spending
+
+Example:
+
+Medicines: ₹2,400
+
+Consultations: ₹800
+
+Diagnostics: ₹1,500
+
+Total:
+₹4,700
+
+---
+
+18. HEALTHCARE FINANCIAL SHOCK SIMULATOR
+
+This is the CORE HealthShield/HealthShock research feature.
+
+Create a section:
+
+“What if a medical expense happens tomorrow?”
+
+Allow scenarios:
+
+₹10,000
+
+₹25,000
+
+₹50,000
+
+₹1,00,000
+
+₹2,00,000
+
+Custom amount
+
+After selecting:
+
+₹50,000
+
+show:
+
+Example
+
+Medical expense:
+₹50,000
+
+Immediately accessible health savings:
+₹18,500
+
+Insurance/protection potentially available:
+₹20,000
+
+Estimated remaining exposure:
+₹11,500
+
+IMPORTANT:
+
+These should be illustrative calculations using demo data.
+
+Do not claim that the system can accurately predict a real hospital bill.
+
+---
+
+19. FAMILY FINANCIAL READINESS
+
+Create a readiness dashboard.
+
+Example:
+
+Family Healthcare Readiness
+
+72 / 100
+
+Label:
+
+Moderately Prepared
+
+Show dimensions:
+
+Emergency Liquidity
+
+72%
+
+Healthcare Protection
+
+80%
+
+Recurring Healthcare Burden
+
+55%
+
+Coverage Understanding
+
+60%
+
+Health Savings
+
+65%
+
+IMPORTANT:
+
+Do not use arbitrary hidden scoring.
+
+Create a transparent calculation module.
+
+Show:
+
+“Why did I get this score?”
+
+Explain each component.
+
+For the prototype, explicitly label weights as:
+
+“Prototype methodology — subject to research validation.”
+
+---
+
+20. DOMINANT VULNERABILITY
+
+This is the key innovation.
+
+Instead of simply saying:
+
+“You should save more.”
+
+The system should identify the biggest vulnerability.
+
+Possible outputs:
+
+Liquidity Vulnerability
+
+«“Your family may have healthcare protection, but the amount of immediately accessible savings may be insufficient for a moderate medical expense.”»
+
+Recommended action:
+
+«“Build a dedicated health reserve gradually.”»
+
+OR:
+
+Coverage Uncertainty
+
+«“Your family has healthcare protection, but the exact coverage available for specific expenses is unclear.”»
+
+Recommended action:
+
+«“Review your policy/scheme coverage and verify applicable benefits.”»
+
+OR:
+
+Recurring Healthcare Burden
+
+«“Recurring healthcare expenses are consuming a meaningful portion of your household healthcare budget.”»
+
+Recommended action:
+
+«“Track recurring expenses and review available benefits and coverage.”»
+
+OR:
+
+Debt Pressure
+
+«“Existing financial obligations may reduce your ability to absorb a sudden healthcare expense.”»
+
+Recommended action:
+
+«“Build liquidity gradually and avoid relying solely on high-cost borrowing.”»
+
+---
+
+21. INTERVENTION ENGINE
+
+Create:
+
+“What Should You Do Next?”
+
+The recommendation must depend on the user's dominant vulnerability.
+
+Examples:
+
+If liquidity is low:
+
+«Save ₹50/day toward a healthcare reserve.»
+
+If coverage uncertainty is high:
+
+«Review your insurance/government benefit coverage.»
+
+If government benefit may be available:
+
+«Verify eligibility through the official scheme.»
+
+If recurring healthcare expenses are high:
+
+«Track monthly healthcare spending and identify available benefits.»
+
+If the household is already well prepared:
+
+«“Your current protection appears relatively strong. Focus on keeping records updated and reviewing coverage periodically.”»
+
+Do NOT sell insurance automatically.
+
+Do NOT recommend a specific financial product.
+
+---
+
+22. BEFORE / AFTER SIMULATION
+
+Create a powerful visualization:
+
+“What happens if you take one action?”
+
+Example:
+
+Current health reserve:
+₹18,500
+
+Medical shock:
+₹50,000
+
+Current estimated gap:
+₹31,500
+
+If user saves ₹100/day:
+
+Projected reserve after selected period:
+₹24,500
+
+Illustrative remaining gap:
+₹25,500
+
+Label clearly:
+
+“Illustrative simulation, not a financial guarantee.”
+
+Allow the user to change:
+
+- Daily saving
+- Monthly saving
+- Time period
+- Medical shock amount
+
+Then dynamically update the simulation.
+
+---
+
+23. FAMILY HEALTH + FINANCE CONNECTION
+
+This should be one of the strongest pages.
+
+Title:
+
+“Your Family's Complete Health Safety Net”
+
+Show four connected layers:
+
+1. Health
+
+Who needs healthcare?
+
+↓
+
+2. Protection
+
+What insurance/government benefits may apply?
+
+↓
+
+3. Savings
+
+How much can the family access immediately?
+
+↓
+
+4. Shock
+
+What happens if a medical expense occurs?
+
+Then:
+
+5. Action
+
+What can the family do today?
+
+This is the core product story.
+
+---
+
+24. AI FAMILY ASSISTANT
+
+Create a future-oriented assistant called:
+
+HealthShield AI
+
+The assistant should answer questions based ONLY on information available in the application.
+
+Examples:
+
+User:
+
+«“Show me all medical reports of my father from the last year.”»
+
+AI:
+
+«“I found 6 records from the last 12 months.”»
+
+User:
+
+«“How much did we spend on medicines last month?”»
+
+AI:
+
+«“Your family recorded ₹2,400 in medicine expenses last month.”»
+
+User:
+
+«“Which family member has recurring healthcare expenses?”»
+
+AI:
+
+«“Based on the information you entered, your father has recurring medicine expenses.”»
+
+User:
+
+«“What happens if we face a ₹50,000 medical expense?”»
+
+AI:
+
+«“Based on your current prototype data, your estimated immediately accessible funds are ₹18,500. Your estimated protection and remaining gap are shown in the readiness analysis.”»
+
+Do NOT allow the assistant to diagnose or prescribe.
+
+---
+
+25. DOCUMENT SEARCH
+
+Allow:
+
+«“Search family records”»
+
+Examples:
+
+“Find all blood reports.”
+
+“Show mother's prescriptions.”
+
+“Show all reports uploaded in 2026.”
+
+“Show hospitalization documents.”
+
+“Show healthcare expenses for my son.”
+
+Create a clean document-search interface.
+
+---
+
+26. PRIVACY & CONSENT
+
+This section is extremely important.
+
+Create a dedicated:
+
+Privacy & Consent
+
+Explain:
+
+- Health information is sensitive.
+- Users control what they upload.
+- Do not request unnecessary personal information.
+- Do not request Aadhaar numbers for the prototype.
+- Do not request bank passwords.
+- Do not request OTPs.
+- Do not request card PINs.
+- Do not connect to real bank accounts.
+- Do not claim government access without authorization.
+- Do not claim real ABDM integration unless actually implemented.
+- Do not share data with third parties in the prototype.
+
+Use clear consent controls.
+
+Example:
+
+☐ I understand that uploaded health information is sensitive.
+
+☐ I consent to using AI to organize my uploaded documents.
+
+☐ I understand that AI-generated summaries should be verified against original documents.
+
+---
+
+27. ABDM / ABHA INTEGRATION
+
+Create a section:
+
+“Connect Digital Health Records”
+
+For the prototype, show:
+
+ABHA / ABDM Integration — Future Authorized Integration
+
+Explain:
+
+«“In a future production version, HealthShield could explore authorized integration with India's digital health ecosystem to enable consent-based access to eligible digital health records.”»
+
+Do NOT fake an API connection.
+
+Do NOT pretend the prototype is connected to ABDM.
+
+Do NOT claim that HealthShield replaces ABHA.
+
+The future architecture should complement existing digital health infrastructure.
+
+---
+
+28. GOVERNMENT BENEFITS + PRIVATE HOSPITALS
+
+Create a future concept called:
+
+“Healthcare Benefits Navigator”
+
+The system could eventually help users understand:
+
+- Which schemes may apply
+- Eligibility
+- Covered services
+- Empanelled facilities
+- Required documents
+- Verification status
+- Potential financial protection
+- Remaining out-of-pocket exposure
+
+IMPORTANT:
+
+Never state:
+
+“Government card means all medicines are free at every private hospital.”
+
+Instead use:
+
+«“Coverage depends on scheme rules, eligibility, empanelment, package coverage and applicable government/authorized guidelines.”»
+
+---
+
+29. RESEARCH MODE
+
+Add a separate page:
+
+Research Methodology
+
+Explain that HealthShield is currently a research prototype.
+
+Research question:
+
+«“Can a household-level healthcare financial resilience assessment identify meaningful vulnerabilities and produce more actionable interventions than generic healthcare-finance advice?”»
+
+Possible research variables:
+
+- Household income
+- Essential expenditure
+- Accessible savings
+- Debt obligations
+- Dependents
+- Age distribution
+- Recurring healthcare expenses
+- Insurance coverage
+- Government healthcare protection
+- Previous healthcare shocks
+- Healthcare spending
+- Confidence in understanding coverage
+
+Research outputs:
+
+- Healthcare financial readiness
+- Estimated financial exposure
+- Dominant vulnerability
+- Recommended intervention
+- Before/after illustrative simulation
+
+Clearly state:
+
+“Prototype methodology will be validated through field research.”
+
+---
+
+30. FUTURE MACHINE LEARNING
+
+Create a section:
+
+“Future AI / Machine Learning Layer”
+
+Do NOT actually add ML to V1.
+
+Show this as a roadmap.
+
+Future system:
+
+Household data
+↓
+Historical healthcare financial outcomes
+↓
+Feature engineering
+↓
+Machine-learning model
+↓
+Probability of requiring external funding
+↓
+Explainable risk factors
+↓
+Personalized intervention
+
+Possible future prediction:
+
+«“Given this household profile and a hypothetical ₹50,000 healthcare shock, what is the probability that the household would require external funding?”»
+
+Potential future models:
+
+- Logistic Regression baseline
+- Random Forest
+- Gradient Boosting / XGBoost
+
+Do not use AI merely for marketing.
+
+Explain:
+
+«“Machine learning would only be introduced after sufficient real-world data is collected and validated.”»
+
+---
+
+31. FUTURE SHOCK CURVE
+
+Show a future visualization:
+
+Healthcare Shock Absorption Curve
+
+X-axis:
+
+Medical expense
+
+₹10K → ₹25K → ₹50K → ₹1L → ₹2L
+
+Y-axis:
+
+Probability of needing external funding
+
+The future model could estimate:
+
+«P(external funding | household characteristics, healthcare shock amount)»
+
+Clearly mark this as:
+
+Future research concept — not implemented in V1.
+
+---
+
+32. FAMILY HEALTH WALLET — FUTURE EXPANSION
+
+Future wallet could support:
+
+- Daily saving
+- Monthly saving
+- Emergency health reserve
+- Healthcare expense tracking
+- Insurance premium planning
+- Government benefit utilization tracking
+- Family member-specific savings goals
+
+Example:
+
+Child Health Reserve
+
+₹5,000
+
+Elder Care Reserve
+
+₹12,000
+
+Family Emergency Reserve
+
+₹25,000
+
+Do not implement real-money transactions.
+
+---
+
+33. DASHBOARD
+
+The home dashboard should show:
+
+Good Morning
+
+Your Family
+
+4 Members
+
+Health Records
+
+18 Organized
+
+Healthcare Savings
+
+₹18,500
+
+Monthly Healthcare Spending
+
+₹4,700
+
+Protection
+
+2 benefits / insurance records
+
+Family Readiness
+
+72 / 100
+
+Biggest Vulnerability
+
+Liquidity
+
+Recommended Action
+
+Save ₹100/day toward healthcare reserve.
+
+---
+
+34. DEMO MODE
+
+Create a fully populated fictional family.
+
+Family:
+
+Father — 52
+Mother — 48
+Son — 15
+Daughter — 9
+Grandmother — 71
+
+Give them fictional:
+
+- Health records
+- Medical reports
+- Prescriptions
+- Healthcare expenses
+- Insurance
+- Government-benefit information
+- Savings
+- Recurring healthcare expenses
+
+Everything must be clearly marked:
+
+DEMO DATA
+
+This allows judges to immediately understand the system without entering data.
+
+---
+
+35. JUDGE DEMO MODE
+
+Add a button:
+
+“Launch 2-Minute Demo”
+
+When clicked:
+
+1. Load fictional family
+2. Show family health overview
+3. Show medical records
+4. Show AI-organized timeline
+5. Show government/insurance protection
+6. Show health wallet
+7. Trigger ₹50,000 healthcare shock
+8. Show financial gap
+9. Identify dominant vulnerability
+10. Recommend intervention
+11. Show before/after simulation
+
+This should be the fastest way to demonstrate the innovation during the Research Expo.
+
+---
+
+36. REPORT GENERATION
+
+Add:
+
+“Generate Family Health & Financial Readiness Report”
+
+The report should contain:
+
+- Family overview
+- Member profiles
+- Health record summary
+- Healthcare spending
+- Protection summary
+- Health wallet
+- Readiness score
+- Shock scenario
+- Dominant vulnerability
+- Recommended actions
+
+Allow:
+
+Print / Save as PDF
+
+For prototype purposes, generate a clean report.
+
+---
+
+37. ACCESSIBILITY
+
+The application must be accessible to ordinary Indian users.
+
+Support:
+
+- Mobile Android screens
+- Low-resolution screens
+- Tablets
+- Laptops
+- Desktop
+
+Use:
+
+- Large buttons
+- Large readable text
+- High contrast
+- Simple English
+- Clear icons with labels
+- Minimal jargon
+- One primary action per screen
+- Keyboard navigation
+- Visible focus states
+- Semantic HTML
+- Screen-reader-friendly labels
+- ARIA where appropriate
+- Large touch targets
+
+Do not create complicated dashboards that only technical users can understand.
+
+---
+
+38. LANGUAGE
+
+Use simple English.
+
+Avoid technical terminology wherever possible.
+
+For example:
+
+Instead of:
+
+“Healthcare financial vulnerability”
+
+show:
+
+“How difficult would it be for your family to handle a medical expense?”
+
+The technical term can appear underneath for the research explanation.
+
+Future roadmap:
+
+- Telugu
+- Tamil
+- Hindi
+- Other Indian languages
+
+Do not implement translation unless practical.
+
+---
+
+39. DESIGN SYSTEM
+
+Visual style:
+
+- Clean
+- Premium
+- Trustworthy
+- Research-oriented
+- Healthcare + finance hybrid
+
+Avoid:
+
+- Excessive gradients
+- Cartoon medical illustrations
+- Overly bright colors
+- Excessive animations
+- Cryptocurrency-style UI
+- Gamification
+- Fake medical claims
+
+Use:
+
+- Cards
+- Clear hierarchy
+- Simple charts
+- Progress indicators
+- Timeline components
+- Family-member avatars
+- Financial summary cards
+- Health document cards
+
+Make the interface feel like a serious research prototype that could eventually become a real product.
+
+---
+
+40. TECHNICAL REQUIREMENTS
+
+Use:
+
+- React
+- TypeScript
+- Tailwind CSS
+- Responsive design
+- Component-based architecture
+
+Prefer:
+
+- Local state for V1
+- Mock data
+- Modular calculation functions
+- Clean separation between UI and calculations
+
+No backend is required for the initial prototype unless necessary.
+
+Do not require authentication for the demo.
+
+Do not require real bank integration.
+
+Do not require real government integration.
+
+Do not require real healthcare APIs.
+
+---
+
+41. CALCULATION ENGINE
+
+Create a separate calculation module.
+
+Inputs:
+
+- Household size
+- Ages
+- Dependents
+- Essential expenses
+- Accessible savings
+- Debt/EMIs
+- Insurance coverage
+- Government benefit protection
+- Recurring healthcare expenses
+- Previous healthcare expenses
+- Healthcare shock amount
+
+Outputs:
+
+- Readiness indicator
+- Liquidity position
+- Protection position
+- Recurring healthcare burden
+- Estimated financial gap
+- Dominant vulnerability
+- Suggested intervention
+
+Make calculations deterministic.
+
+Do not generate random scores.
+
+Add comments explaining the prototype methodology.
+
+---
+
+42. EXPLAINABILITY
+
+Every important output must answer:
+
+“Why?”
+
+For example:
+
+Why is my readiness 72?
+
+Show:
+
+- Accessible savings contributed X
+- Healthcare protection contributed Y
+- Recurring expenses increased exposure
+- Dependents increased potential exposure
+
+Use plain language.
+
+Do not create mysterious AI scores.
+
+---
+
+43. IMPORTANT SAFETY RULES
+
+Never claim:
+
+- Medical diagnosis
+- Medical prognosis
+- Guaranteed treatment
+- Guaranteed government eligibility
+- Guaranteed free medicines
+- Guaranteed insurance claim
+- Guaranteed financial outcome
+- Government partnership
+- ABDM integration unless actually implemented
+- Real bank integration unless actually implemented
+- Real AI medical accuracy unless validated
+
+Every simulated calculation must be clearly labelled:
+
+Illustrative
+
+Every future integration must be labelled:
+
+Future / Requires authorization
+
+Every AI health summary must be labelled:
+
+AI-generated — verify against original document
+
+---
+
+44. PRODUCT POSITIONING
+
+The product should NOT be presented as:
+
+“Another health records app.”
+
+Instead:
+
+«HealthShield is a family healthcare financial resilience platform that organizes health information, maps available protection, helps families build a healthcare savings buffer, and simulates how they may cope with unexpected medical expenses.»
+
+Short version:
+
+«“We connect family health information with financial preparedness.”»
+
+Core innovation:
+
+«“Instead of looking at health records, insurance and savings separately, HealthShield connects them to answer one practical question: if a healthcare shock happens tomorrow, what happens to this family financially?”»
+
+---
+
+45. FUTURE PRODUCT ARCHITECTURE
+
+Show this as a roadmap:
+
+V1 — Research Prototype
+
+Family profiles
++
+Health records
++
+Health expenses
++
+Health wallet simulation
++
+Healthcare shock simulator
++
+Rule-based readiness assessment
+
+↓
+
+V2 — Benefits Navigator
+
+Government scheme verification
++
+Insurance protection
++
+Empanelled facility information
++
+Authorized integrations
+
+↓
+
+V3 — Consent-Based Digital Health Integration
+
+ABHA/ABDM-compatible integrations where officially authorized
++
+Structured health records
++
+Consent management
+
+↓
+
+V4 — AI / ML
+
+Large validated dataset
++
+Predictive healthcare financial risk
++
+Personalized intervention engine
++
+Shock absorption curve
+
+---
+
+46. FINAL HOME SCREEN MESSAGE
+
+End the experience with:
+
+«“Being prepared is not about predicting illness. It is about reducing the financial damage when the unexpected happens.”»
+
+CTA:
+
+Check My Family's Readiness
+
+Secondary:
+
+Explore Demo
+
+---
+
+47. FINAL IMPLEMENTATION PRIORITY
+
+Do not build everything with equal complexity.
+
+Priority 1:
+Family profiles
+
+Priority 2:
+Structured health records
+
+Priority 3:
+Health wallet
+
+Priority 4:
+Healthcare shock simulator
+
+Priority 5:
+Readiness + dominant vulnerability
+
+Priority 6:
+Government/insurance benefits mockup
+
+Priority 7:
+AI document organizer mockup
+
+Priority 8:
+Research methodology
+
+Priority 9:
+Future ML roadmap
+
+Priority 10:
+Future ABDM/government integration roadmap
+
+The website must feel complete even if future integrations are only represented as clearly labelled prototypes.
+
+---
+
+48. MOST IMPORTANT JUDGE EXPERIENCE
+
+A judge should be able to understand the entire idea in less than 2 minutes.
+
+The demo should communicate:
+
+This family has 5 members.
+
+↓
+
+Each person has different health needs.
+
+↓
+
+Their medical records are scattered, so HealthShield organizes them.
+
+↓
+
+Their government/insurance protection is different, so HealthShield maps it.
+
+↓
+
+They save money specifically for healthcare.
+
+↓
+
+Now simulate a ₹50,000 medical shock.
+
+↓
+
+The system identifies the family's biggest vulnerability.
+
+↓
+
+It recommends a targeted action.
+
+↓
+
+The family can see how that action changes their financial readiness.
+
+That is the core product story.
+
+Build this as a polished, responsive, research-grade prototype rather than a generic healthcare dashboard.

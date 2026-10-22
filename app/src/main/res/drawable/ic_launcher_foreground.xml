@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shield Outer Glow / Shadow -->
+    <path
+        android:fillColor="#22000000"
+        android:pathData="M 54,23 L 78,33 C 78,59 66,75 54,83 C 42,75 30,59 30,33 Z" />
+
+    <!-- Shield Body -->
+    <path
+        android:pathData="M 54,21 L 76,30 C 76,56 64,72 54,80 C 44,72 32,56 32,30 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="54"
+                android:startY="21"
+                android:endX="54"
+                android:endY="80"
+                android:type="linear">
+                <item android:color="#FFFFFF" android:offset="0.0" />
+                <item android:color="#E0F2FE" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Shield Inner Border Accent -->
+    <path
+        android:strokeColor="#0284C7"
+        android:strokeWidth="1.8"
+        android:fillColor="#00000000"
+        android:pathData="M 54,25 L 72,33 C 72,53 62,67 54,74 C 46,67 36,53 36,33 Z" />
+
+    <!-- Medical / Resilience Cross in vibrant Emerald/Teal -->
+    <path
+        android:fillColor="#0D9488"
+        android:pathData="M 50,38 L 58,38 L 58,47 L 67,47 L 67,55 L 58,55 L 58,64 L 50,64 L 50,55 L 41,55 L 41,47 L 50,47 Z" />
+
+    <!-- Small central protection node / dot in heart-coral -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,49 A 2.5,2.5 0 1,0 54,53 A 2.5,2.5 0 1,0 54,49 Z" />
+</vector>

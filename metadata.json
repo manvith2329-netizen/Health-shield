@@ -1,0 +1,6 @@
+{
+  "name": "HealthShield",
+  "description": "Family Health & Financial Resilience Platform connecting health records, protection schemes, and healthcare financial shock simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
